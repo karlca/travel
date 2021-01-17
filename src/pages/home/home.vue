@@ -1,7 +1,7 @@
-import { template } from "babel-core";
-
 <template>
-    <div>Home</div>
+    <div>
+        Hello world
+    </div>
 </template>
 
 <script>
@@ -11,5 +11,7 @@ import { template } from "babel-core";
 </script>
 
 <style>
-
+        .home {
+            font-size:50px;
+        }
 </style>
